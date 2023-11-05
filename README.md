@@ -1,1 +1,1 @@
-#Latihan dari modul minggu ke-11, bismillah selesai dengan lancar.
+#Latihan dari modul minggu ke-11, mempelajari dasar penggunaan git. Mulai dari perintah git init hingga git marge. Semoga dengan mengerjakan latihan ini, saya menjadi lebih paham cara menggunakan git.
